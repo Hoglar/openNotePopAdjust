@@ -1,0 +1,22 @@
+{
+  "name": "popadjust",
+  "version": "1.0.0",
+  "description": "program to update note popularity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoglar/openNotePopAdjust.git"
+  },
+  "author": "Martin Høghaug Larsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hoglar/openNotePopAdjust/issues"
+  },
+  "homepage": "https://github.com/Hoglar/openNotePopAdjust#readme",
+  "dependencies": {
+    "mongodb": "^3.1.10"
+  }
+}
